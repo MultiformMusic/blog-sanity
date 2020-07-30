@@ -11,7 +11,36 @@ export default createSchema({
   // Then proceed to concatenate our document type
   // to the ones provided by any plugins that are installed
   types: schemaTypes.concat([
+
+
+    // PORTFOLIOS
+
     {
+      name: 'logo',
+      title: 'Logo',
+      type: 'document',
+      fields: [
+        {
+          name: 'name',
+          title: 'Name',
+          type: 'string'
+        },
+        {
+          name: 'logoImage',
+          title: 'Logo Image',
+          type: 'image',
+          options: {
+            hotspot: true
+          }
+        }
+      ]
+    },
+
+
+    // BLOGS
+
+    {
+
       name: 'author',
       type: 'document',
       title: 'Author',
