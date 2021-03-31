@@ -890,6 +890,10 @@
     fs-extra "^6.0.1"
     promise-props-recursive "^1.0.0"
 
+"@sanity/cli@1.149.16 ":
+  version "1.149.16"
+  resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-1.149.16.tgz#77fa51bfaa0b65c7065c0def14c4b6ed8138ca43"
+
 "@sanity/client@1.149.16":
   version "1.149.16"
   resolved "https://registry.npmjs.org/@sanity/client/-/client-1.149.16.tgz#7b569830617614be2427be0a0daf50ce26af5a1d"
@@ -8158,8 +8162,8 @@ xxhashjs@^0.2.1:
     cuint "^0.2.2"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npmjs.org/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 yallist@^2.1.2:
   version "2.1.2"
