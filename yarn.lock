@@ -890,6 +890,10 @@
     fs-extra "^6.0.1"
     promise-props-recursive "^1.0.0"
 
+"@sanity/cli@1.149.16 ":
+  version "1.149.16"
+  resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-1.149.16.tgz#77fa51bfaa0b65c7065c0def14c4b6ed8138ca43"
+
 "@sanity/client@1.149.16":
   version "1.149.16"
   resolved "https://registry.npmjs.org/@sanity/client/-/client-1.149.16.tgz#7b569830617614be2427be0a0daf50ce26af5a1d"
@@ -7720,8 +7724,8 @@ typedarray@^0.0.6:
   resolved "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
 
 uglify-js@^2.8.29:
   version "2.8.29"
