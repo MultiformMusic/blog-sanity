@@ -890,6 +890,10 @@
     fs-extra "^6.0.1"
     promise-props-recursive "^1.0.0"
 
+"@sanity/cli@1.149.16 ":
+  version "1.149.16"
+  resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-1.149.16.tgz#77fa51bfaa0b65c7065c0def14c4b6ed8138ca43"
+
 "@sanity/client@1.149.16":
   version "1.149.16"
   resolved "https://registry.npmjs.org/@sanity/client/-/client-1.149.16.tgz#7b569830617614be2427be0a0daf50ce26af5a1d"
@@ -6318,8 +6322,8 @@ qs@6.7.0:
   resolved "https://registry.npmjs.org/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.npmjs.org/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
 
 query-string@^4.3.2:
   version "4.3.4"
